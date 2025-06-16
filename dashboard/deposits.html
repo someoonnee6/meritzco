@@ -1,0 +1,1907 @@
+﻿<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <script type="text/javascript" src="../v3/index.htm"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="9AUencLeaPkQhuF6eaDjc5RaG1AcsUUE0ur7vKWI">
+    <title>Meritzinvestment | Fund your account</title>
+
+    <link rel="icon" href="../storage/app/public/photos/2CRBgD4XlBmDKF5o3P7RBXR7PSsw5tCtb6sKZ5bm.png" type="image/png">
+
+    <!-- Core CSS -->
+    <link href="../npm/tailwindcss%402.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="../3.4.16"></script>
+    
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    screens: {
+                        'xs': '375px',
+                    },
+                    colors: {
+                        primary: {
+                             DEFAULT: '#0052FF',
+                           '50': '#e5efff',
+                           '100': '#cce0ff',
+                            '200': '#99c2ff',
+                            '300': '#66a3ff',
+                            '400': '#3385ff',
+                            '500': '#0052FF',
+                            '600': '#0048e6',
+                            '700': '#003dbf',
+                            '800': '#003399',
+                            '900': '#002266',
+                        },
+                        secondary: {
+                            DEFAULT: '#4A9D7F',
+                            '50': '#E8F5F0',
+                            '100': '#D1EBE1',
+                            '200': '#A3D7C3',
+                            '300': '#76C3A5',
+                            '400': '#4A9D7F',
+                            '500': '#3C7F65',
+                            '600': '#2E614D',
+                            '700': '#214435',
+                            '800': '#13261E',
+                            '900': '#040906',
+                        },
+                        tertiary: {
+                            DEFAULT: '#627EEA', // Ethereum blue
+                            '50': '#EDF0FC',
+                            '100': '#DBE1F9',
+                            '200': '#B7C3F3',
+                            '300': '#93A6ED',
+                            '400': '#627EEA',
+                            '500': '#3053E4',
+                            '600': '#173BCE',
+                            '700': '#122FA8',
+                            '800': '#0D2382',
+                            '900': '#08165C',
+                        },
+                        accent: {
+                            DEFAULT: '#F0B90B', // Binance yellow
+                            '50': '#FEF9E6',
+                            '100': '#FDF3CC',
+                            '200': '#FAE699',
+                            '300': '#F7DA66',
+                            '400': '#F0B90B',
+                            '500': '#C39508',
+                            '600': '#967106',
+                            '700': '#694D04',
+                            '800': '#3C2A02',
+                            '900': '#0F0A01',
+                        },
+                        danger: {
+                            DEFAULT: '#FF6B6B',
+                            '50': '#FFF0F0',
+                            '100': '#FFE0E0',
+                            '200': '#FFC2C2',
+                            '300': '#FFA3A3',
+                            '400': '#FF6B6B',
+                            '500': '#FF3838',
+                            '600': '#FF0505',
+                            '700': '#D10000',
+                            '800': '#9E0000',
+                            '900': '#6B0000',
+                        },
+                        purple: {
+                            DEFAULT: '#9164CC',
+                            '50': '#F3EDFA',
+                            '100': '#E7DCF5',
+                            '200': '#CFB9EB',
+                            '300': '#B796E0',
+                            '400': '#9164CC',
+                            '500': '#7642BE',
+                            '600': '#5D33A0',
+                            '700': '#44267C',
+                            '800': '#2C1958',
+                            '900': '#140B34',
+                        },
+                        dark: {
+                            DEFAULT: '#1A1F2C',
+                            '50': '#1E2430',
+                            '100': '#2A303C',
+                            '200': '#343D4F',
+                            '300': '#3E4A62',
+                        },
+                        light: {
+                            DEFAULT: '#F8FAFC',
+                            '50': '#FFFFFF',
+                            '100': '#F1F5F9',
+                            '200': '#E2E8F0',
+                            '300': '#CBD5E1',
+                        },
+                    },
+                    animation: {
+                        'in': 'fadeIn 0.3s ease-in-out',
+                        'slide-in-top': 'slideInFromTop 0.3s ease-in-out',
+                        'slide-in-bottom': 'slideInFromBottom 0.3s ease-in-out',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            'from': { opacity: '0' },
+                            'to': { opacity: '1' }
+                        },
+                        slideInFromTop: {
+                            'from': { transform: 'translateY(-20px)', opacity: '0' },
+                            'to': { transform: 'translateY(0)', opacity: '1' }
+                        },
+                        slideInFromBottom: {
+                            'from': { transform: 'translateY(20px)', opacity: '0' },
+                            'to': { transform: 'translateY(0)', opacity: '1' }
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+ <script src="../lucide%400.515.0/dist/umd/lucide.min.js"></script>
+    <!-- Lucide Icons -->
+    <script src="../npm/lucide%40latest/dist/umd/lucide.min.js"></script>
+
+    <!-- Additional libraries that are still needed -->
+    <link rel="stylesheet" href="../dash2/libs/sweetalert2/dist/sweetalert2.min.css">
+    <script src="../dash2/libs/sweetalert/sweetalert.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../v/bs4/dt-1.10.21/af-2.3.5/b-1.6.3/b-flash-1.6.3/b-html5-1.6.3/b-print-1.6.3/r-2.2.5/datatables.min.css">
+
+    <!-- Alpine.js -->
+    <script src="../gh/alpinejs/alpine%40v2.8.1/dist/alpine.min.js" defer=""></script>
+
+    <!-- Select2 for dropdowns -->
+    <link href="../ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet">
+  <!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+    <link rel="stylesheet" href="../FontAwesome6Pro/css/all.min.css">
+
+    <!-- Custom Styles -->
+    <style>
+        @keyframes  fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes  slideInFromTop {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        @keyframes  slideInFromBottom {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        .animate-in {
+            animation: fadeIn 0.3s ease-in-out;
+        }
+        .slide-in-from-top {
+            animation: slideInFromTop 0.3s ease-in-out;
+        }
+        .slide-in-from-bottom {
+            animation: slideInFromBottom 0.3s ease-in-out;
+        }
+
+        /* DataTables responsive fixes */
+        .dataTables_wrapper {
+            overflow-x: auto;
+            width: 100%;
+        }
+
+        /* Select2 dropdown fixes */
+        .select2-container {
+            width: 100% !important;
+        }
+
+        /* Light and Dark mode styles */
+        .dark {
+            color-scheme: dark;
+        }
+
+        /* Dark mode styles for DataTables */
+        .dark .dataTables_wrapper .dataTable {
+            background-color: #1E2430;
+            color: #fff;
+        }
+        .dark .dataTables_wrapper .dataTable th,
+        .dark .dataTables_wrapper .dataTable td {
+            border-color: #2A303C;
+        }
+        .dark .dataTables_wrapper .dataTables_info,
+        .dark .dataTables_wrapper .dataTables_paginate {
+            color: #CBD5E1 !important;
+        }
+
+        /* Light mode styles for Select2 */
+        .light .select2-container--default .select2-selection--single {
+            background-color: #F8FAFC;
+            border-color: #CBD5E1;
+        }
+
+        /* Dark mode styles for Select2 */
+        .dark .select2-container--default .select2-selection--single {
+            background-color: #1E2430;
+            border-color: #2A303C;
+            color: #F8FAFC;
+        }
+        .dark .select2-container--default .select2-selection--single .select2-selection__rendered {
+            color: #F8FAFC;
+        }
+    </style>
+    <style>[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+    </head>
+
+<body class="dark:bg-dark bg-light-100 dark:text-white text-dark transition-colors duration-200">
+    <script>
+        
+    </script>
+
+    <!-- Application container -->
+    <div class="flex flex-col md:flex-row min-h-screen relative">
+        <!-- Sidebar Overlay -->
+<div id="sidebar-overlay" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-[10000] hidden transition-opacity duration-300"></div>
+
+<!-- Modern Sidebar -->
+<div class="fixed inset-y-0 left-0 z-[10010] w-72 transform dark:bg-gradient-to-b dark:from-dark-50 dark:to-dark bg-gradient-to-b from-light-100 to-light overflow-y-auto transition-all duration-300 ease-in-out md:relative md:translate-x-0 -translate-x-full shadow-2xl" id="sidenav-main">
+    <div class="flex flex-col h-full">
+        <!-- Sidebar Header with Branding -->
+        <div class="flex h-16 items-center mt-4 dark:border-dark-100 border-light-200 border-b px-6">
+           <a href="../dashboard.html" class="flex items-center gap-2 font-bold text-xl">
+            <img src="../storage/app/public/photos/erS41GrjdsLGXfFderVWcZmCASGd6Rt2nIMEqnsg.png" alt="logo" class="h-8">
+        </a>
+            <div class="ml-auto md:hidden">
+                <button class="dark:text-white text-dark-100 bg-transparent hover:text-primary transition-colors" id="closeSideNav">
+                    <i data-lucide="x" class="h-5 w-5"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- User Profile Section with Modern Design -->
+        <div class="relative mt-6 px-4 mb-6">
+            <div class="p-4 rounded-xl dark:bg-dark-100/50 bg-light-200/50 backdrop-blur-sm dark:border-dark-100/40 border-light-200/40 border relative overflow-hidden group">
+                <!-- Decorative background elements -->
+                <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-b from-primary/10 to-transparent rounded-full blur-2xl transform translate-x-8 -translate-y-8 group-hover:translate-y-0 transition-transform duration-700"></div>
+                <div class="absolute bottom-0 left-0 w-32 h-32 bg-gradient-to-t from-secondary/10 to-transparent rounded-full blur-2xl transform -translate-x-8 translate-y-8 group-hover:translate-y-0 transition-transform duration-700"></div>
+
+                <!-- User info with better layout -->
+                <div class="flex flex-col items-center relative">
+                    <div class="relative mb-3">
+                        <!-- Avatar with gradient ring -->
+                        <div class="absolute inset-0 bg-gradient-to-r from-primary to-secondary rounded-full blur-[1px]"></div>
+                        <div class="relative bg-primary h-16 w-16 rounded-full flex items-center justify-center text-xl font-bold dark:border-dark/80 border-light-300/80 border-2">
+                            ab
+                        </div>
+
+                        <!-- Status indicator -->
+                        <div class="absolute bottom-0 right-0 h-4 w-4 bg-secondary rounded-full dark:border-dark border-light-300 border-2 shadow-lg"></div>
+                    </div>
+
+                    <h5 class="font-medium dark:text-white text-dark mb-0.5">abc</h5>
+                    <span class="text-xs dark:text-gray-400 text-gray-600 mb-3 dark:bg-dark-50/50 bg-light-200/50 px-2 py-0.5 rounded-full">online</span>
+
+                    <!-- Balance display with card-like design -->
+                    <div class="dark:bg-gradient-to-r dark:from-dark-50 dark:to-dark-100 bg-gradient-to-r from-light-100 to-light-200 p-3 rounded-lg w-full flex items-center gap-2 dark:border-dark-100/60 border-light-200/60 border relative overflow-hidden">
+                        <div class="h-8 w-8 rounded-full bg-primary/10 flex items-center justify-center">
+                            <i data-lucide="wallet" class="h-4 w-4 text-primary"></i>
+                        </div>
+                        <div>
+                            <span class="text-xs dark:text-gray-400 text-gray-600 block">Balance</span>
+                            <span class="text-sm font-medium dark:text-white text-dark">$0.00</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation Menu with Category Sections -->
+        <div class="flex-1 px-3 py-2">
+            <div class="space-y-6">
+                <!-- Main Navigation Section -->
+                <div>
+                    <p class="text-xs font-medium text-gray-500 uppercase px-3 mb-2">Main</p>
+                    <nav class="space-y-1">
+                        <a href="../dashboard.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="home" class="h-5 w-5"></i>
+                            <span>Dashboard</span>
+                        </a>
+
+                        <a href="account-settings.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="user" class="h-5 w-5"></i>
+                            <span>Profile</span>
+                        </a>
+                    </nav>
+                </div>
+
+                <!-- Finance Section -->
+                <div>
+                    <p class="text-xs font-medium text-gray-500 uppercase px-3 mb-2">Finance</p>
+                    <nav class="space-y-1">
+                        <a href="deposits.html" class="flex items-center gap-3 rounded-lg bg-primary/10 text-primary px-3 py-2 transition-colors">
+                            <i data-lucide="download" class="h-5 w-5"></i>
+                            <span>Deposit</span>
+                        </a>
+
+                                                <a href="../user/confirm-password.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="upload" class="h-5 w-5"></i>
+                            <span>Withdraw</span>
+                        </a>
+                        
+                        <a href="accounthistory.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="history" class="h-5 w-5"></i>
+                            <span>Transactions</span>
+                        </a>
+
+                                            </nav>
+                </div>
+
+                <!-- Investment Section -->
+                                <div>
+                    <p class="text-xs font-medium text-gray-500 uppercase px-3 mb-2">Investments</p>
+                    <nav class="space-y-1">
+                        <a href="buy-plan.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="briefcase" class="h-5 w-5"></i>
+                            <span>Trading Plans</span>
+                        </a>
+
+                        <a href="myplans/All.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="folder" class="h-5 w-5"></i>
+                            <span>My Plans</span>
+                        </a>
+
+                        <a href="tradinghistory.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="trending-up" class="h-5 w-5"></i>
+                            <span>Profit History</span>
+                        </a>
+                    </nav>
+                </div>
+                
+                <!-- Additional Services Section -->
+                <div>
+                    <p class="text-xs font-medium text-gray-500 uppercase px-3 mb-2">Services</p>
+                    <nav class="space-y-1">
+                        
+
+                                                <a href="asset-balance.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="shuffle" class="h-5 w-5"></i>
+                            <span>Swap Crypto</span>
+                        </a>
+                        
+                        
+                        
+                        <a href="referuser.html" class="flex items-center gap-3 rounded-lg dark:text-gray-300 text-gray-700 hover:bg-dark-100/60 dark:hover:bg-dark-100/60 hover:bg-light-200/60 px-3 py-2 transition-colors">
+                            <i data-lucide="users" class="h-5 w-5"></i>
+                            <span>Referrals</span>
+                        </a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+        <!-- Help Section with Enhanced Design -->
+        <div class="mt-auto px-4 pb-6">
+            <div class="rounded-xl overflow-hidden bg-gradient-to-r from-primary/80 to-secondary/80 p-0.5">
+                <div class="dark:bg-dark-50 bg-light-100 rounded-lg p-4">
+                    <div class="flex items-start gap-3">
+                        <div class="bg-primary/20 rounded-full p-2">
+                            <i data-lucide="life-buoy" class="h-5 w-5 text-primary"></i>
+                        </div>
+                        <div>
+                            <h5 class="font-medium dark:text-white text-dark text-sm mb-1">Need Help?</h5>
+                            <p class="text-xs dark:text-gray-300 text-gray-700 mb-3">
+                                Our support team is available 24/7
+                            </p>
+                            <a href="support.html" class="flex items-center justify-center gap-2 dark:bg-dark-100 bg-light-200 hover:bg-light-200/80 dark:hover:bg-dark-100/80 dark:text-white text-dark rounded-lg py-2 text-xs font-medium transition-colors">
+                                <i data-lucide="message-circle" class="h-3.5 w-3.5"></i>
+                                <span>Contact Support</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Initialize Lucide icons
+        lucide.createIcons();
+
+        // Get elements
+        const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+        const sidebar = document.getElementById('sidenav-main');
+        const closeBtn = document.getElementById('closeSideNav');
+        const overlay = document.getElementById('sidebar-overlay');
+
+        // Helper function to open sidebar
+        function openSidebar() {
+            sidebar.classList.remove('-translate-x-full');
+            overlay.classList.remove('hidden');
+            document.body.classList.add('overflow-hidden');
+            setTimeout(() => {
+                overlay.classList.add('opacity-100');
+            }, 50);
+        }
+
+        // Helper function to close sidebar
+        function closeSidebar() {
+            sidebar.classList.add('-translate-x-full');
+            overlay.classList.add('hidden');
+            overlay.classList.remove('opacity-100');
+            document.body.classList.remove('overflow-hidden');
+        }
+
+        // Toggle sidebar on mobile menu button click
+        if (mobileMenuToggle && sidebar) {
+            mobileMenuToggle.addEventListener('click', function(e) {
+                e.stopPropagation();
+                if (sidebar.classList.contains('-translate-x-full')) {
+                    openSidebar();
+                } else {
+                    closeSidebar();
+                }
+            });
+        }
+
+        // Close sidebar on close button click
+        if (closeBtn && sidebar) {
+            closeBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                closeSidebar();
+            });
+        }
+
+        // Close sidebar when clicking on overlay
+        if (overlay) {
+            overlay.addEventListener('click', function() {
+                closeSidebar();
+            });
+        }
+
+        // Close sidebar when clicking outside
+        document.addEventListener('click', function(event) {
+            const isClickInsideSidebar = sidebar.contains(event.target);
+            const isClickOnToggle = mobileMenuToggle && (event.target === mobileMenuToggle || mobileMenuToggle.contains(event.target));
+
+            if (!isClickInsideSidebar && !isClickOnToggle && !sidebar.classList.contains('-translate-x-full')) {
+                closeSidebar();
+            }
+        });
+
+        // Close sidebar when pressing Escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closeSidebar();
+            }
+        });
+    });
+</script>
+
+        <!-- Main Content -->
+    <div class="w-full flex flex-col">
+    <!-- Top Menu -->
+    <!-- Enhanced Top Navigation Bar -->
+<header class="flex h-16 items-center justify-between dark:border-dark-100 border-light-200 border-b px-4 sm:px-6 sticky top-0 z-[9999] bg-gradient-to-r dark:from-dark dark:to-dark-50 from-light to-light-100 backdrop-blur-sm shadow-md">
+    <div class="flex items-center gap-4">
+        <!-- Mobile Menu Toggle with Improved Design -->
+        <button class="md:hidden dark:text-white text-dark p-1.5 rounded-lg dark:hover:bg-dark-100/60 hover:bg-light-200/60 transition-colors focus:outline-none focus:ring-2 focus:ring-primary/50" id="mobileMenuToggle">
+            <i class="fas fa-bars h-5 w-5"></i>
+        </button>
+        
+        <!-- Mobile Logo with Enhanced Appearance -->
+        <div class="flex items-center gap-3 md:hidden">
+            <div class="flex items-center gap-2 font-bold text-xl md:hidden">
+            <img src="../storage/app/public/photos/erS41GrjdsLGXfFderVWcZmCASGd6Rt2nIMEqnsg.png" alt="logo" class="h-8">
+        </div>
+        </div>
+    </div>
+    
+    <!-- Right-side items with Better Layout -->
+    <div class="flex items-center gap-1.5 sm:gap-3">
+        <!-- Theme Toggle Button -->
+       <button id="themeToggle" onclick="toggleTheme()" class="p-1.5 dark:text-gray-300 text-gray-700 hover:text-dark dark:hover:text-white dark:bg-dark-100/40 bg-light-200/40 hover:bg-light-200/80 dark:hover:bg-dark-100/80 rounded-lg transition-colors" title="Toggle Theme">
+            <!-- Sun icon for light theme (shown in dark mode) -->
+            <i data-lucide="sun" class="h-4 w-4"></i>
+            <!-- Moon icon for dark theme (shown in light mode) -->
+            <i data-lucide="moon" class="h-4 w-4"></i>
+        </button>
+        
+        <!-- KYC Verification with Improved Design -->
+                
+        <!-- Notifications with Enhanced Design -->
+        <div class="relative" x-data="{ 
+                open: false, 
+                notifications: [], 
+                unreadCount: 0, 
+                loading: true, 
+                init() { 
+                    this.fetchNotifications(); 
+                    this.setupPolling(); 
+                }, 
+                fetchNotifications() { 
+                    this.loading = true; 
+                    fetch('https://meritzinvestment.co.uk/dashboard/api/notifications/latest') 
+                        .then(response => response.json()) 
+                        .then(data => { 
+                            this.notifications = data.notifications; 
+                            this.unreadCount = data.unread_count; 
+                            this.loading = false; 
+                        }) 
+                        .catch(error => { 
+                            console.error('Error fetching notifications:', error); 
+                            this.loading = false; 
+                        }); 
+                }, 
+                setupPolling() { 
+                    setInterval(() => { 
+                        this.fetchNotifications(); 
+                    }, 30000); 
+                } 
+            }" x-init="init()">
+            <button @click="open = !open; if(open) fetchNotifications();" class="p-1.5 dark:text-gray-300 text-gray-700 hover:text-dark dark:hover:text-white dark:bg-dark-100/40 bg-light-200/40 hover:bg-light-200/80 dark:hover:bg-dark-100/80 rounded-lg transition-colors relative" title="Notifications">
+                <i class="fas fa-bell h-4 w-4"></i>
+                <span x-show="unreadCount > 0" x-text="unreadCount > 9 ? '9+' : unreadCount" class="absolute -right-1 -top-1 h-4 w-4 flex items-center justify-center bg-primary text-[10px] text-white rounded-full dark:border-dark border-light-100 border"></span>
+            </button>
+            
+            <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 w-72 dark:bg-dark-50 bg-light-100 dark:border-dark-100 border-light-200 border rounded-lg shadow-lg overflow-hidden z-[10000]">
+                <div class="bg-gradient-to-r dark:from-dark-100 dark:to-dark-100/30 from-light-200 to-light-200/30 px-4 py-3 flex items-center justify-between dark:border-dark-100 border-light-200 border-b">
+                    <h6 class="text-sm font-medium dark:text-white text-dark">Notifications</h6>
+                    <span x-show="unreadCount > 0" x-text="unreadCount" class="text-xs bg-primary text-white px-1.5 py-0.5 rounded-full"></span>
+                </div>
+                
+                <div class="max-h-[280px] overflow-y-auto">
+                    <!-- Loading State -->
+                    <template x-if="loading">
+                        <div class="p-4 text-center">
+                            <div class="inline-block h-6 w-6 animate-spin rounded-full border-2 border-solid border-primary border-r-transparent motion-reduce:animate-[spin_1.5s_linear_infinite]" role="status">
+                                <span class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Loading...</span>
+                            </div>
+                        </div>
+                    </template>
+                    
+                    <!-- Empty State -->
+                    <template x-if="!loading && notifications.length === 0">
+                        <div class="p-4 text-center">
+                            <div class="h-12 w-12 rounded-full bg-light-200/60 dark:bg-dark-100/60 flex items-center justify-center mx-auto mb-2">
+                                <i class="fas fa-bell-slash h-6 w-6 dark:text-gray-400 text-gray-600"></i>
+                            </div>
+                            <p class="text-xs dark:text-gray-400 text-gray-600">No notifications yet</p>
+                        </div>
+                    </template>
+                    
+                    <!-- Notifications List -->
+                    <template x-if="!loading && notifications.length > 0">
+                        <div>
+                            <template x-for="notification in notifications" :key="notification.id">
+                                <a :href="'https://meritzinvestment.co.uk/dashboard/notifications/mark-as-read/' + notification.id" class="block p-3 dark:border-dark-100/60 border-light-200/60 border-b hover:bg-dark-100/30 dark:hover:bg-dark-100/30 hover:bg-light-200/30 transition-colors" :class="{ 'dark:bg-dark-100/50 bg-light-200/50': !notification.is_read }">
+                                    <div class="flex gap-3">
+                                        <div :class="notification.icon_bg_color || 'bg-primary/10'" class="h-8 w-8 rounded-full flex items-center justify-center flex-shrink-0">
+                                            <i :class="'fas ' + (notification.icon || 'fa-bell')" class="h-4 w-4 text-primary"></i>
+                                        </div>
+                                        <div>
+                                            <p class="text-xs dark:text-white text-dark font-medium" x-text="notification.title || 'Notification'"></p>
+                                            <p class="text-xs dark:text-gray-400 text-gray-600 mt-0.5" x-text="notification.message"></p>
+                                            <p class="text-xs dark:text-gray-500 text-gray-500 mt-1" x-text="new Date(notification.created_at).toLocaleString()"></p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </template>
+                        </div>
+                    </template>
+                </div>
+                
+                <div class="p-2 dark:border-dark-100 border-light-200 border-t flex justify-between">
+                    <a x-show="unreadCount > 0" href="support.html" class="block text-xs text-primary hover:text-primary/80 py-1 px-2">
+                        Mark all as read
+                    </a>
+                    <a href="notifications.html" class="block text-xs text-primary hover:text-primary/80 py-1 px-2 ml-auto">
+                        View all
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- User Profile Dropdown with Enhanced Design -->
+        <div class="relative" x-data="{ open: false }">
+            <button @click="open = !open" class="flex items-center gap-2 p-1 rounded-lg hover:bg-dark-100/40 dark:hover:bg-dark-100/40 hover:bg-light-200/40 transition-colors">
+                <div class="relative">
+                    <div class="absolute inset-0 bg-gradient-to-r from-primary to-secondary rounded-full opacity-80"></div>
+                    <div class="relative h-7 w-7 sm:h-8 sm:w-8 bg-primary rounded-full flex items-center justify-center text-sm font-medium dark:border-dark-50 border-light-300 border-2">
+                        ab
+                    </div>
+                </div>
+                <span class="hidden md:block text-sm font-medium dark:text-white text-dark">abc</span>
+                <i class="fas fa-chevron-down h-4 w-4 dark:text-gray-400 text-gray-600 hidden md:block"></i>
+            </button>
+            
+            <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 w-56 dark:bg-dark-50 bg-light-100 dark:border-dark-100 border-light-200 border rounded-lg shadow-lg overflow-hidden z-[10000]">
+                <div class="bg-gradient-to-r dark:from-dark-100 dark:to-dark-100/30 from-light-200 to-light-200/30 px-4 py-3 dark:border-dark-100 border-light-200 border-b">
+                    <h6 class="text-sm font-medium dark:text-white text-dark">abc</h6>
+                    <p class="text-xs dark:text-gray-400 text-gray-600 mt-0.5">abc@abc.com</p>
+                </div>
+                
+                <div class="py-2">
+                    <a href="account-settings.html" class="flex items-center gap-2 px-4 py-2 text-sm dark:text-gray-300 text-gray-700 dark:hover:bg-dark-100/60 hover:bg-light-200/60 transition-colors">
+                        <i class="fas fa-user h-4 w-4 dark:text-gray-400 text-gray-600"></i>
+                        <span>My Profile</span>
+                    </a>
+                    <a href="accounthistory.html" class="flex items-center gap-2 px-4 py-2 text-sm dark:text-gray-300 text-gray-700 dark:hover:bg-dark-100/60 hover:bg-light-200/60 transition-colors">
+                        <i class="fas fa-history h-4 w-4 dark:text-gray-400 text-gray-600"></i>
+                        <span>Transaction History</span>
+                    </a>
+                    <a href="support.html" class="flex items-center gap-2 px-4 py-2 text-sm dark:text-gray-300 text-gray-700 dark:hover:bg-dark-100/60 hover:bg-light-200/60 transition-colors">
+                        <i class="fas fa-life-ring h-4 w-4 dark:text-gray-400 text-gray-600"></i>
+                        <span>Support</span>
+                    </a>
+                </div>
+                
+                <div class="py-2 dark:border-dark-100 border-light-200 border-t">
+                    <a href="https://meritzinvestment.co.uk/logout" onclick="event.preventDefault(); document.getElementById('logout-form').submit();" class="flex items-center gap-2 px-4 py-2 text-sm text-danger dark:hover:bg-dark-100/60 hover:bg-light-200/60 transition-colors">
+                        <i class="fas fa-sign-out-alt h-4 w-4"></i>
+                        <span>Logout</span>
+                    </a>
+                    
+                    <form id="logout-form" action="https://meritzinvestment.co.uk/logout" method="POST" class="hidden">
+                        <input type="hidden" name="_token" value="9AUencLeaPkQhuF6eaDjc5RaG1AcsUUE0ur7vKWI">                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+    <!-- Page content -->
+    <div class="p-4 md:p-6 pb-20 md:pb-8 overflow-x-hidden flex-grow">
+        
+<!-- Exchange-style top header with balance cards -->
+<div class="mb-4">
+    <div class="flex items-center justify-between mb-6">
+        <h1 class="text-xl font-bold text-dark dark:text-white flex items-center">
+            <svg class="w-6 h-6 mr-2" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18.04 13.55C17.62 13.96 17.38 14.55 17.44 15.18C17.53 16.26 18.52 17.05 19.6 17.05H21.5V18.24C21.5 20.31 19.81 22 17.74 22H6.26C4.19 22 2.5 20.31 2.5 18.24V11.51C2.5 9.44 4.19 7.75 6.26 7.75H17.74C19.81 7.75 21.5 9.44 21.5 11.51V12.95H19.48C18.92 12.95 18.41 13.17 18.04 13.55Z" fill="currentColor" fill-opacity="0.2"></path>
+                <path d="M14.85 4.97V7.75H6.26C4.19 7.75 2.5 9.44 2.5 11.51V6.44C2.5 5.08 3.6 3.97 4.97 3.97H13.88C14.43 3.97 14.85 4.39 14.85 4.97Z" fill="currentColor" fill-opacity="0.2"></path>
+                <path d="M22.5588 13.9702V16.0302C22.5588 16.5802 22.1188 17.0302 21.5588 17.0502H19.5988C18.5188 17.0502 17.5288 16.2602 17.4388 15.1802C17.3788 14.5502 17.6188 13.9602 18.0388 13.5502C18.4088 13.1702 18.9188 12.9502 19.4788 12.9502H21.5588C22.1188 12.9702 22.5588 13.4202 22.5588 13.9702Z" fill="currentColor"></path>
+            </svg>
+            <span>Deposits</span>
+        </h1>
+        <div class="hidden md:flex space-x-2">
+            <button class="px-4 py-2 text-sm font-medium rounded-lg bg-light-100 dark:bg-dark-100 text-dark dark:text-white hover:bg-light-200 dark:hover:bg-dark-200 transition-colors">
+                Deposit History
+            </button>
+            <button class="px-4 py-2 text-sm font-medium rounded-lg bg-primary text-white hover:bg-primary-600 transition-colors">
+                New Deposit
+            </button>
+        </div>
+    </div>
+
+    <!-- Balance Cards -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
+        <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 p-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <p class="text-xs text-dark-300 dark:text-light-300 uppercase font-medium">Available Balance</p>
+                    <p class="text-xl font-bold text-dark dark:text-white mt-1">$0.00</p>
+                </div>
+                <div class="w-10 h-10 rounded-lg bg-primary-50 dark:bg-primary-900/30 flex items-center justify-center">
+                    <svg class="w-5 h-5 text-primary-600 dark:text-primary-400" viewbox="0 0 24 24" fill="none">
+                        <path d="M18.04 13.55C17.62 13.96 17.38 14.55 17.44 15.18C17.53 16.26 18.52 17.05 19.6 17.05H21.5V18.24C21.5 20.31 19.81 22 17.74 22H6.26C4.19 22 2.5 20.31 2.5 18.24V11.51C2.5 9.44 4.19 7.75 6.26 7.75H17.74C19.81 7.75 21.5 9.44 21.5 11.51V12.95H19.48C18.92 12.95 18.41 13.17 18.04 13.55Z" fill="currentColor" fill-opacity="0.2"></path>
+                        <path d="M14.85 4.97V7.75H6.26C4.19 7.75 2.5 9.44 2.5 11.51V6.44C2.5 5.08 3.6 3.97 4.97 3.97H13.88C14.43 3.97 14.85 4.39 14.85 4.97Z" fill="currentColor" fill-opacity="0.2"></path>
+                        <path d="M22.5588 13.9702V16.0302C22.5588 16.5802 22.1188 17.0302 21.5588 17.0502H19.5988C18.5188 17.0502 17.5288 16.2602 17.4388 15.1802C17.3788 14.5502 17.6188 13.9602 18.0388 13.5502C18.4088 13.1702 18.9188 12.9502 19.4788 12.9502H21.5588C22.1188 12.9702 22.5588 13.4202 22.5588 13.9702Z" fill="currentColor"></path>
+                        <path d="M7 12H14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 p-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <p class="text-xs text-dark-300 dark:text-light-300 uppercase font-medium">Total Deposited</p>
+                    <p class="text-xl font-bold text-dark dark:text-white mt-1">$0.00</p>
+                </div>
+                <div class="w-10 h-10 rounded-lg bg-secondary-50 dark:bg-secondary-900/30 flex items-center justify-center">
+                    <svg class="w-5 h-5 text-secondary-600 dark:text-secondary-400" viewbox="0 0 24 24" fill="none">
+                        <path d="M9.5 13.7502C9.5 14.7202 10.25 15.5002 11.17 15.5002H13.05C13.85 15.5002 14.5 14.8202 14.5 13.9702C14.5 13.0602 14.1 12.7302 13.51 12.5202L10.5 11.4702C9.91 11.2602 9.51 10.9402 9.51 10.0202C9.51 9.18023 10.16 8.49023 10.96 8.49023H12.84C13.76 8.49023 14.51 9.27023 14.51 10.2402" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12 7.5V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M17 3V7H21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M22 2L17 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 p-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <p class="text-xs text-dark-300 dark:text-light-300 uppercase font-medium">Pending Deposits</p>
+                    <p class="text-xl font-bold text-dark dark:text-white mt-1">$0.00</p>
+                </div>
+                <div class="w-10 h-10 rounded-lg bg-tertiary-50 dark:bg-tertiary-900/30 flex items-center justify-center">
+                    <svg class="w-5 h-5 text-tertiary-600 dark:text-tertiary-400" viewbox="0 0 24 24" fill="none">
+                        <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor" fill-opacity="0.2"></path>
+                        <path d="M15.71 15.93L12.61 14.13C12.07 13.83 11.63 13.12 11.63 12.49V7.97" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 p-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <p class="text-xs text-dark-300 dark:text-light-300 uppercase font-medium">Last Deposit</p>
+                    <p class="text-xl font-bold text-dark dark:text-white mt-1">$0.00</p>
+                </div>
+                <div class="w-10 h-10 rounded-lg bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center">
+                    <svg class="w-5 h-5 text-accent-600 dark:text-accent-400" viewbox="0 0 24 24" fill="none">
+                        <path d="M16.44 8.8999C20.04 9.2099 21.51 11.0599 21.51 15.1099V15.2399C21.51 19.7099 19.72 21.4999 15.25 21.4999H8.73998C4.26998 21.4999 2.47998 19.7099 2.47998 15.2399V15.1099C2.47998 11.0899 3.92998 9.2399 7.46998 8.9099" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12 2V14.88" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.35 12.6499L12 15.9999L8.65002 12.6499" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Toast Notifications Container -->
+<div id="toast-container" class="fixed top-4 right-4 z-[9999] flex flex-col gap-3"></div>
+
+<!-- Alert Messages -->
+<div>
+    </div><div>
+    </div>
+<!-- Exchange-style deposit methods table -->
+<div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 overflow-hidden">
+    <!-- Table Header -->
+    <div class="p-5 border-b border-light-200 dark:border-dark-200/50">
+        <h2 class="text-base font-bold text-dark dark:text-white">Select Deposit Method</h2>
+    </div>
+    
+    <!-- Filter/Search Bar -->
+    <div class="p-4 bg-light-50 dark:bg-dark-100 border-b border-light-200 dark:border-dark-200/50 flex flex-wrap gap-3 items-center justify-between">
+        <div class="flex items-center space-x-2">
+            <button class="px-3 py-1.5 text-xs font-medium rounded-lg bg-primary text-white hover:bg-primary-600 transition-colors">
+                All Methods
+            </button>
+            <button class="px-3 py-1.5 text-xs font-medium rounded-lg bg-light-100 dark:bg-dark-200 text-dark-300 dark:text-light-300 hover:bg-light-200 dark:hover:bg-dark-300 transition-colors">
+                Crypto
+            </button>
+            <button class="px-3 py-1.5 text-xs font-medium rounded-lg bg-light-100 dark:bg-dark-200 text-dark-300 dark:text-light-300 hover:bg-light-200 dark:hover:bg-dark-300 transition-colors">
+                Bank Transfer
+            </button>
+        </div>
+        <div class="relative">
+            <input type="text" placeholder="Search payment methods..." class="w-full md:w-60 pl-9 pr-4 py-1.5 text-sm rounded-lg bg-white dark:bg-dark-50 border border-light-200 dark:border-dark-200 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent text-dark dark:text-white">
+            <svg class="w-4 h-4 text-dark-300 dark:text-light-300 absolute left-3 top-1/2 transform -translate-y-1/2" viewbox="0 0 24 24" fill="none">
+                <path d="M11.5 21C16.7467 21 21 16.7467 21 11.5C21 6.25329 16.7467 2 11.5 2C6.25329 2 2 6.25329 2 11.5C2 16.7467 6.25329 21 11.5 21Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22 22L20 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+        </div>
+    </div>
+
+    <!-- Methods Table -->
+    <div class="overflow-x-auto">
+        <table class="w-full">
+            <thead>
+                <tr class="bg-light-50 dark:bg-dark-100 text-dark-300 dark:text-light-300 text-xs uppercase">
+                    <th class="px-6 py-3 text-left font-medium">Method</th>
+                    <th class="px-6 py-3 text-right font-medium">Limits</th>
+                    <!--<th class="px-6 py-3 text-right font-medium">Fee</th>-->
+                    <!--<th class="px-6 py-3 text-right font-medium">Processing Time</th>-->
+                    <th class="px-6 py-3 text-right font-medium">Action</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-light-200 dark:divide-dark-200/50">
+                                <tr class="hover:bg-light-50 dark:hover:bg-dark-100/50 transition-colors text-sm">
+                    <td class="px-6 py-4">
+                        <div class="flex items-center">
+                                                            <div class="w-8 h-8 rounded-lg bg-primary-50 dark:bg-primary-900/30 p-1.5 mr-3 flex items-center justify-center">
+                                    <svg class="w-5 h-5 text-primary-600 dark:text-primary-400" viewbox="0 0 24 24" fill="none">
+                                        <path d="M9.5 13.7502C9.5 14.7202 10.25 15.5002 11.17 15.5002H13.05C13.85 15.5002 14.5 14.8202 14.5 13.9702C14.5 13.0602 14.1 12.7302 13.51 12.5202L10.5 11.4702C9.91 11.2602 9.51 10.9402 9.51 10.0202C9.51 9.18023 10.16 8.49023 10.96 8.49023H12.84C13.76 8.49023 14.51 9.27023 14.51 10.2402" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M12 7.5V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </svg>
+                                </div>
+                                                        <div>
+                                <p class="font-medium text-dark dark:text-white">Bank Transfer</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="px-6 py-4 text-right">
+                        <div class="text-dark dark:text-white">
+                            <div class="text-xs text-dark-300 dark:text-light-300">Min: <span class="font-medium text-dark dark:text-white">$50.00</span></div>
+                                                    </div>
+                    </td>
+                    <!--<td class="px-6 py-4 text-right">-->
+                    <!--    <span class="px-2 py-1 text-xs rounded-md bg-secondary-50 dark:bg-secondary-900/30 text-secondary-600 dark:text-secondary-300">-->
+                    <!--        -->
+                    <!--            -->
+                    <!--                0%-->
+                    <!--            -->
+                    <!--        -->
+                    <!--    </span>-->
+                    <!--</td>-->
+                    <!--<td class="px-6 py-4 text-right">-->
+                    <!--    <span class="text-dark dark:text-white">Instant</span>-->
+                    <!--</td>-->
+                    <td class="px-6 py-4 text-right">
+                        <button onclick="checkpamethd('12')" class="px-3 py-1.5 text-xs font-medium rounded-md bg-primary text-white hover:bg-primary-600 transition-colors">
+                            Deposit
+                        </button>
+                    </td>
+                </tr>
+                                <tr class="hover:bg-light-50 dark:hover:bg-dark-100/50 transition-colors text-sm">
+                    <td class="px-6 py-4">
+                        <div class="flex items-center">
+                                                            <div class="w-8 h-8 rounded-lg bg-light-100 dark:bg-dark-200 p-1.5 mr-3 flex items-center justify-center">
+                                    <img src="data:image/png;base64,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" alt="Bitcoin" class="h-full w-full object-contain">
+                                </div>
+                                                        <div>
+                                <p class="font-medium text-dark dark:text-white">Bitcoin</p>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="px-6 py-4 text-right">
+                        <div class="text-dark dark:text-white">
+                            <div class="text-xs text-dark-300 dark:text-light-300">Min: <span class="font-medium text-dark dark:text-white">$50.00</span></div>
+                                                    </div>
+                    </td>
+                    <!--<td class="px-6 py-4 text-right">-->
+                    <!--    <span class="px-2 py-1 text-xs rounded-md bg-secondary-50 dark:bg-secondary-900/30 text-secondary-600 dark:text-secondary-300">-->
+                    <!--        -->
+                    <!--            -->
+                    <!--                0%-->
+                    <!--            -->
+                    <!--        -->
+                    <!--    </span>-->
+                    <!--</td>-->
+                    <!--<td class="px-6 py-4 text-right">-->
+                    <!--    <span class="text-dark dark:text-white">Instant</span>-->
+                    <!--</td>-->
+                    <td class="px-6 py-4 text-right">
+                        <button onclick="checkpamethd('1')" class="px-3 py-1.5 text-xs font-medium rounded-md bg-primary text-white hover:bg-primary-600 transition-colors">
+                            Deposit
+                        </button>
+                    </td>
+                </tr>
+                            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Deposit Form Card -->
+<div class="mt-6 bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 overflow-hidden">
+    <div class="p-5 border-b border-light-200 dark:border-dark-200/50">
+        <h2 class="text-base font-bold text-dark dark:text-white flex items-center">
+            <svg class="w-5 h-5 mr-2 text-primary" viewbox="0 0 24 24" fill="none">
+                <path d="M9.5 13.7502C9.5 14.7202 10.25 15.5002 11.17 15.5002H13.05C13.85 15.5002 14.5 14.8202 14.5 13.9702C14.5 13.0602 14.1 12.7302 13.51 12.5202L10.5 11.4702C9.91 11.2602 9.51 10.9402 9.51 10.0202C9.51 9.18023 10.16 8.49023 10.96 8.49023H12.84C13.76 8.49023 14.51 9.27023 14.51 10.2402" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12 7.5V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+            Deposit Details
+        </h2>
+    </div>
+    
+    <div class="p-6">
+        <form action="javascript:;" method="post" id="submitpaymentform" class="space-y-6">
+            <input type="hidden" name="_token" value="9AUencLeaPkQhuF6eaDjc5RaG1AcsUUE0ur7vKWI">            
+            <!-- Amount Input -->
+            <div class="space-y-2">
+                <div class="flex items-center justify-between">
+                    <label for="amount" class="text-sm font-medium text-dark dark:text-white">Amount to deposit</label>
+                    
+                    <div class="flex items-center">
+                        <span class="text-xs text-dark-300 dark:text-light-300 mr-2">Min:</span>
+                        <span class="text-sm font-medium text-dark dark:text-white">$50.00</span>
+                    </div>
+                </div>
+                
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                        <span class="text-dark-300 dark:text-light-300">$</span>
+                    </div>
+                    <input class="block w-full pl-10 pr-12 py-3 text-lg rounded-xl bg-light-100 dark:bg-dark-100 border border-light-200 dark:border-dark-200 focus:ring-2 focus:ring-primary focus:border-transparent text-dark dark:text-white transition-all" placeholder="0.00" type="number" name="amount" id="amount" min="50" required="">
+                </div>
+            </div>
+            
+            <input type="hidden" name="payment_method" id="paymethod" value="">
+            
+            <!-- Selected Payment Method Display -->
+            <div id="selected-method" class="hidden p-4 rounded-xl bg-light-50 dark:bg-dark-100 border border-light-200 dark:border-dark-200 flex items-center justify-between">
+                <div class="flex items-center">
+                    <div id="method-icon" class="w-10 h-10 rounded-lg bg-primary-50 dark:bg-primary-900/30 p-2 mr-3 flex items-center justify-center"></div>
+                    <div>
+                        <p class="text-sm text-dark-300 dark:text-light-300">Selected Method</p>
+                        <p id="method-name" class="text-base font-medium text-dark dark:text-white">-</p>
+                    </div>
+                </div>
+                
+                <button type="button" onclick="resetMethod()" class="text-xs text-primary dark:text-primary-400 hover:underline">
+                    Change
+                </button>
+            </div>
+            
+            <!-- Submit Button -->
+            <div class="pt-4">
+                <button type="submit" id="submit-btn" class="w-full py-4 px-4 rounded-xl bg-gradient-to-r from-primary to-secondary hover:from-primary-600 hover:to-secondary-600 text-white font-medium flex items-center justify-center gap-2 transform transition-all duration-300 hover:-translate-y-1 shadow-lg hover:shadow-primary/20 disabled:opacity-50 disabled:cursor-not-allowed" disabled="">
+                    <svg class="w-5 h-5" viewbox="0 0 24 24" fill="none">
+                        <path d="M9.5 13.7502C9.5 14.7202 10.25 15.5002 11.17 15.5002H13.05C13.85 15.5002 14.5 14.8202 14.5 13.9702C14.5 13.0602 14.1 12.7302 13.51 12.5202L10.5 11.4702C9.91 11.2602 9.51 10.9402 9.51 10.0202C9.51 9.18023 10.16 8.49023 10.96 8.49023H12.84C13.76 8.49023 14.51 9.27023 14.51 10.2402" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12 7.5V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                    <span>Complete Deposit</span>
+                </button>
+                <p class="mt-3 text-center text-xs text-dark-300 dark:text-light-300">
+                    By proceeding, you agree to our terms of service
+                </p>
+            </div>
+            
+            <input type="hidden" id="lastchosen" value="0">
+        </form>
+    </div>
+</div>
+
+<!-- Exchange-style Information Cards -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+    <!-- Deposit Process -->
+    <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 overflow-hidden">
+        <div class="p-4 border-b border-light-200 dark:border-dark-200/50 flex items-center">
+            <svg class="w-5 h-5 text-primary mr-2" viewbox="0 0 24 24" fill="none">
+                <path d="M10.75 2.44995C11.44 1.85995 12.57 1.85995 13.27 2.44995L14.85 3.81001C15.15 4.07001 15.71 4.28002 16.11 4.28002H17.81C18.87 4.28002 19.74 5.14996 19.74 6.20996V7.91003C19.74 8.30003 19.95 8.87001 20.21 9.17001L21.57 10.75C22.16 11.44 22.16 12.57 21.57 13.27L20.21 14.85C19.95 15.15 19.74 15.71 19.74 16.11V17.8101C19.74 18.8701 18.87 19.74 17.81 19.74H16.11C15.72 19.74 15.15 19.95 14.85 20.21L13.27 21.5699C12.58 22.1599 11.45 22.1599 10.75 21.5699L9.17004 20.21C8.87004 19.95 8.31004 19.74 7.91004 19.74H6.18C5.12 19.74 4.25 18.8701 4.25 17.8101V16.1C4.25 15.71 4.04 15.15 3.79 14.85L2.44 13.26C1.86 12.57 1.86 11.45 2.44 10.76L3.79 9.17001C4.04 8.87001 4.25 8.31003 4.25 7.91003V6.20996C4.25 5.14996 5.12 4.28002 6.18 4.28002H7.91004C8.30004 4.28002 8.87004 4.07001 9.17004 3.81001L10.75 2.44995Z" fill="currentColor" fill-opacity="0.2"></path>
+                <path d="M10.58 16.46L7.34998 13.23C6.94998 12.83 6.94998 12.16 7.34998 11.76C7.74998 11.36 8.41998 11.36 8.81998 11.76L10.58 13.52L15.18 8.91998C15.58 8.51998 16.25 8.51998 16.65 8.91998C17.05 9.31998 17.05 9.98998 16.65 10.39L10.58 16.46Z" fill="currentColor"></path>
+            </svg>
+            <h3 class="text-base font-medium text-dark dark:text-white">Deposit Process</h3>
+        </div>
+        <div class="p-5">
+            <ol class="relative border-l border-light-200 dark:border-dark-200 ml-3 space-y-6">
+                <li class="ml-6">
+                    <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-50 dark:bg-primary-900/30 rounded-full -left-3 ring-4 ring-white dark:ring-dark-50">
+                        <span class="text-xs font-bold text-primary-600 dark:text-primary-400">1</span>
+                    </span>
+                    <h3 class="font-medium text-dark dark:text-white">Select Method</h3>
+                    <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Choose your preferred deposit method from the available options.</p>
+                </li>
+                <li class="ml-6">
+                    <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-50 dark:bg-primary-900/30 rounded-full -left-3 ring-4 ring-white dark:ring-dark-50">
+                        <span class="text-xs font-bold text-primary-600 dark:text-primary-400">2</span>
+                    </span>
+                    <h3 class="font-medium text-dark dark:text-white">Enter Amount</h3>
+                    <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Specify the amount you wish to deposit to your account.</p>
+                </li>
+                <li class="ml-6">
+                    <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-50 dark:bg-primary-900/30 rounded-full -left-3 ring-4 ring-white dark:ring-dark-50">
+                        <span class="text-xs font-bold text-primary-600 dark:text-primary-400">3</span>
+                    </span>
+                    <h3 class="font-medium text-dark dark:text-white">Complete Payment</h3>
+                    <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Follow the instructions to complete your deposit through the selected method.</p>
+                </li>
+                <li class="ml-6">
+                    <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-50 dark:bg-primary-900/30 rounded-full -left-3 ring-4 ring-white dark:ring-dark-50">
+                        <span class="text-xs font-bold text-primary-600 dark:text-primary-400">4</span>
+                    </span>
+                    <h3 class="font-medium text-dark dark:text-white">Confirmation</h3>
+                    <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Your deposit will be confirmed and credited to your account.</p>
+                </li>
+            </ol>
+        </div>
+    </div>
+    
+    <!-- Security Tips -->
+    <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 overflow-hidden">
+        <div class="p-4 border-b border-light-200 dark:border-dark-200/50 flex items-center">
+            <svg class="w-5 h-5 text-accent mr-2" viewbox="0 0 24 24" fill="none">
+                <path d="M10.49 2.23006L5.50003 4.10004C4.35003 4.53004 3.41003 5.89004 3.41003 7.12004V14.55C3.41003 15.73 4.19005 17.28 5.14005 17.99L9.44003 21.2C10.85 22.26 13.17 22.26 14.58 21.2L18.88 17.99C19.83 17.28 20.61 15.73 20.61 14.55V7.12004C20.61 5.89004 19.67 4.53004 18.52 4.10004L13.53 2.23006C12.68 1.92006 11.32 1.92006 10.49 2.23006Z" fill="currentColor" fill-opacity="0.2"></path>
+                <path d="M12 12.5C11.59 12.5 11.25 12.16 11.25 11.75V8.75C11.25 8.34 11.59 8 12 8C12.41 8 12.75 8.34 12.75 8.75V11.75C12.75 12.16 12.41 12.5 12 12.5Z" fill="currentColor"></path>
+                <path d="M12 16C11.44 16 11 15.55 11 15C11 14.45 11.45 14 12 14C12.55 14 13 14.45 13 15C13 15.55 12.56 16 12 16Z" fill="currentColor"></path>
+            </svg>
+            <h3 class="text-base font-medium text-dark dark:text-white">Security Tips</h3>
+        </div>
+        <div class="p-5">
+            <ul class="space-y-3">
+                <li class="flex">
+                    <div class="flex-shrink-0 w-5 h-5 rounded-full bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center mr-3 mt-0.5">
+                        <svg class="w-3 h-3 text-accent-600 dark:text-accent-400" viewbox="0 0 24 24" fill="none">
+                            <path d="M6 10L10.2 14.2L18 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </div>
+                    <p class="text-xs text-dark-300 dark:text-light-300">Always verify payment details before confirming transactions.</p>
+                </li>
+                <li class="flex">
+                    <div class="flex-shrink-0 w-5 h-5 rounded-full bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center mr-3 mt-0.5">
+                        <svg class="w-3 h-3 text-accent-600 dark:text-accent-400" viewbox="0 0 24 24" fill="none">
+                            <path d="M6 10L10.2 14.2L18 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </div>
+                    <p class="text-xs text-dark-300 dark:text-light-300">Use secure and private internet connections when making deposits.</p>
+                </li>
+                <li class="flex">
+                    <div class="flex-shrink-0 w-5 h-5 rounded-full bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center mr-3 mt-0.5">
+                        <svg class="w-3 h-3 text-accent-600 dark:text-accent-400" viewbox="0 0 24 24" fill="none">
+                            <path d="M6 10L10.2 14.2L18 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </div>
+                    <p class="text-xs text-dark-300 dark:text-light-300">For crypto deposits, double-check the network type to avoid loss of funds.</p>
+                </li>
+                <li class="flex">
+                    <div class="flex-shrink-0 w-5 h-5 rounded-full bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center mr-3 mt-0.5">
+                        <svg class="w-3 h-3 text-accent-600 dark:text-accent-400" viewbox="0 0 24 24" fill="none">
+                            <path d="M6 10L10.2 14.2L18 6" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </div>
+                    <p class="text-xs text-dark-300 dark:text-light-300">Never share your payment credentials with anyone.</p>
+                </li>
+            </ul>
+            
+            <div class="mt-5 pt-4 border-t border-light-200 dark:border-dark-200/50">
+                <div class="flex items-center p-3 rounded-lg bg-tertiary-50 dark:bg-tertiary-900/20 border border-tertiary-100 dark:border-tertiary-800/30">
+                    <svg class="w-5 h-5 text-tertiary-600 dark:text-tertiary-400 mr-3 flex-shrink-0" viewbox="0 0 24 24" fill="none">
+                        <path d="M12 22C17.5 22 22 17.5 22 12C22 6.5 17.5 2 12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22Z" fill="currentColor" fill-opacity="0.2"></path>
+                        <path d="M12 6V12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12 16H12.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                    <p class="text-xs text-tertiary-700 dark:text-tertiary-300">
+                        Need help with your deposit? Contact our support team via the help center.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Deposit Policy -->
+    <div class="bg-white dark:bg-dark-50 rounded-xl shadow-sm border border-light-200 dark:border-dark-200/50 overflow-hidden">
+        <div class="p-4 border-b border-light-200 dark:border-dark-200/50 flex items-center">
+            <svg class="w-5 h-5 text-secondary mr-2" viewbox="0 0 24 24" fill="none">
+                <path d="M21 7V17C21 20 19.5 22 16 22H8C4.5 22 3 20 3 17V7C3 4 4.5 2 8 2H16C19.5 2 21 4 21 7Z" fill="currentColor" fill-opacity="0.2"></path>
+                <path d="M14.5 4.5V6.5C14.5 7.6 15.4 8.5 16.5 8.5H18.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8 13H12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8 17H16" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+            <h3 class="text-base font-medium text-dark dark:text-white">Deposit Policy</h3>
+        </div>
+        <div class="p-5">
+            <div class="space-y-4">
+                <div class="flex justify-between items-center">
+                    <div class="flex items-center">
+                        <div class="w-8 h-8 rounded-full bg-secondary-50 dark:bg-secondary-900/30 flex items-center justify-center mr-3">
+                            <svg class="w-4 h-4 text-secondary-600 dark:text-secondary-400" viewbox="0 0 24 24" fill="none">
+                                <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor" fill-opacity="0.2"></path>
+                                <path d="M15.71 15.93L12.61 14.13C12.07 13.83 11.63 13.12 11.63 12.49V7.97" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h4 class="text-sm font-medium text-dark dark:text-white">Processing Time</h4>
+                            <p class="text-xs text-dark-300 dark:text-light-300 mt-1">All payment methods</p>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="text-xs text-dark dark:text-white font-medium">Instant</span>
+                    </div>
+                </div>
+                
+                <div class="flex justify-between items-center">
+                    <div class="flex items-center">
+                        <div class="w-8 h-8 rounded-full bg-secondary-50 dark:bg-secondary-900/30 flex items-center justify-center mr-3">
+                            <svg class="w-4 h-4 text-secondary-600 dark:text-secondary-400" viewbox="0 0 24 24" fill="none">
+                                <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor" fill-opacity="0.2"></path>
+                                <path d="M8 13H16" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M8 17H16" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M8 9H12" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h4 class="text-sm font-medium text-dark dark:text-white">Minimum Deposit</h4>
+                            <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Platform requirement</p>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="text-xs text-dark dark:text-white font-medium">$50.00</span>
+                    </div>
+                </div>
+                
+                <div class="flex justify-between items-center">
+                    <div class="flex items-center">
+                        <div class="w-8 h-8 rounded-full bg-secondary-50 dark:bg-secondary-900/30 flex items-center justify-center mr-3">
+                            <svg class="w-4 h-4 text-secondary-600 dark:text-secondary-400" viewbox="0 0 24 24" fill="none">
+                                <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="currentColor" fill-opacity="0.2"></path>
+                                <path d="M15.5 12H15.51" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M11.5 12H11.51" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M7.5 12H7.51" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <h4 class="text-sm font-medium text-dark dark:text-white">Deposit Methods</h4>
+                            <p class="text-xs text-dark-300 dark:text-light-300 mt-1">Available options</p>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="text-xs text-dark dark:text-white font-medium">Multiple</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-5">
+                <a href="accounthistory.html" class="text-xs text-primary dark:text-primary-400 font-medium flex items-center hover:underline">
+                    <span>View deposit history</span>
+                    <svg class="w-3 h-3 ml-1" viewbox="0 0 24 24" fill="none">
+                        <path d="M8.91003 19.9201L15.43 13.4001C16.2 12.6301 16.2 11.3701 15.43 10.6001L8.91003 4.08008" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modern styles with animations -->
+<style>
+    /* Animated floating elements */
+    .floating-element {
+        position: absolute;
+        border-radius: 50%;
+        opacity: 0.7;
+        animation-duration: 15s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+    }
+    
+    .elem-1 {
+        width: 100px;
+        height: 100px;
+        top: 10%;
+        left: 5%;
+        animation-name: float1;
+    }
+    
+    .elem-2 {
+        width: 70px;
+        height: 70px;
+        top: 20%;
+        right: 10%;
+        animation-name: float2;
+    }
+    
+    .elem-3 {
+        width: 50px;
+        height: 50px;
+        bottom: 20%;
+        left: 15%;
+        animation-name: float3;
+    }
+    
+    .elem-4 {
+        width: 80px;
+        height: 80px;
+        bottom: 10%;
+        right: 5%;
+        animation-name: float4;
+    }
+    
+    @keyframes  float1 {
+        0% { transform: translate(0, 0) rotate(0deg); }
+        25% { transform: translate(15px, 15px) rotate(90deg); }
+        50% { transform: translate(0, 30px) rotate(180deg); }
+        75% { transform: translate(-15px, 15px) rotate(270deg); }
+        100% { transform: translate(0, 0) rotate(360deg); }
+    }
+    
+    @keyframes  float2 {
+        0% { transform: translate(0, 0) rotate(0deg); }
+        25% { transform: translate(-20px, 10px) rotate(-90deg); }
+        50% { transform: translate(0, 20px) rotate(-180deg); }
+        75% { transform: translate(20px, 10px) rotate(-270deg); }
+        100% { transform: translate(0, 0) rotate(-360deg); }
+    }
+    
+    @keyframes  float3 {
+        0% { transform: translate(0, 0) rotate(0deg); }
+        33% { transform: translate(15px, -15px) rotate(120deg); }
+        66% { transform: translate(-15px, -15px) rotate(240deg); }
+        100% { transform: translate(0, 0) rotate(360deg); }
+    }
+    
+    @keyframes  float4 {
+        0% { transform: translate(0, 0) rotate(0deg); }
+        33% { transform: translate(-20px, -10px) rotate(-120deg); }
+        66% { transform: translate(20px, -20px) rotate(-240deg); }
+        100% { transform: translate(0, 0) rotate(-360deg); }
+    }
+    
+    /* Payment methods card styles */
+    .payment-method-card.active .payment-radio-inner {
+        display: block;
+    }
+    
+    .payment-method-card.active > div {
+        border-color: theme('colors.primary.500');
+        box-shadow: 0 0 0 1px theme('colors.primary.500');
+    }
+    
+    /* Modern Toast Notifications */
+    .toast {
+        min-width: 300px;
+        max-width: 400px;
+        border-radius: 10px;
+        margin-bottom: 1rem;
+        padding: 1rem;
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        transform: translateX(100%);
+        animation: slideIn 0.3s forwards, fadeOut 0.5s 4.5s forwards;
+        display: flex;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+        z-index: 10000;
+    }
+    
+    .toast.success {
+        background-color: #10b981;
+        color: white;
+    }
+    
+    .toast.danger {
+        background-color: #ef4444;
+        color: white;
+    }
+    
+    .toast.dark-success {
+        background-color: #065f46;
+        color: white;
+    }
+    
+    .toast.dark-danger {
+        background-color: #b91c1c;
+        color: white;
+    }
+    
+    .toast .icon {
+        margin-right: 12px;
+        font-size: 1.5rem;
+    }
+    
+    .toast .content {
+        flex: 1;
+    }
+    
+    .toast .title {
+        font-weight: 600;
+        font-size: 0.875rem;
+    }
+    
+    .toast .message {
+        font-size: 0.75rem;
+        opacity: 0.9;
+    }
+    
+    .toast .close {
+        cursor: pointer;
+        font-size: 0.75rem;
+        padding: 4px;
+    }
+    
+    .toast .progress {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 3px;
+        width: 100%;
+    }
+    
+    .toast .progress-bar {
+        height: 100%;
+        background-color: rgba(255, 255, 255, 0.3);
+        width: 100%;
+        animation: progress 5s linear forwards;
+    }
+    
+    @keyframes  slideIn {
+        from { transform: translateX(100%); }
+        to { transform: translateX(0); }
+    }
+    
+    @keyframes  fadeOut {
+        from { opacity: 1; transform: translateX(0); }
+        to { opacity: 0; transform: translateX(100%); }
+    }
+    
+    @keyframes  progress {
+        from { width: 100%; }
+        to { width: 0%; }
+    }
+</style>
+
+<!-- Modern toast notifications and payment method handling -->
+<script src="../ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+    // Modern Toast Notification System
+    function showToast(type, title, message) {
+        const toastContainer = document.getElementById('toast-container');
+        const isDarkMode = document.documentElement.classList.contains('dark') || 
+                          window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        // Determine toast class based on type and dark mode
+        let toastClass = type;
+        if (isDarkMode) {
+            toastClass = 'dark-' + type;
+        }
+        
+        // Create toast element
+        const toast = document.createElement('div');
+        toast.className = `toast ${toastClass}`;
+        
+        // Set icon based on type
+        let icon = type === 'success' ? 'fa-check-circle' : 'fa-exclamation-circle';
+        
+        // Build toast HTML
+        toast.innerHTML = `
+            <div class="icon">
+                <i class="fas ${icon}"></i>
+            </div>
+            <div class="content">
+                <div class="title">${title}</div>
+                <div class="message">${message}</div>
+            </div>
+            <div class="close" onclick="this.parentElement.remove()">
+                <i class="fas fa-times"></i>
+            </div>
+            <div class="progress">
+                <div class="progress-bar"></div>
+            </div>
+        `;
+        
+        // Add to container
+        toastContainer.appendChild(toast);
+        
+        // Remove after animation completes
+        setTimeout(() => {
+            toast.remove();
+        }, 3000);
+        
+        // Allow click to dismiss
+        toast.addEventListener('click', function() {
+            this.style.animation = 'fadeOut 0.3s forwards';
+            setTimeout(() => {
+                this.remove();
+            }, 300);
+        });
+    }
+    
+    // Function to handle payment method selection
+    function checkpamethd(id) {
+        // Enable the submit button
+        document.getElementById('submit-btn').disabled = false;
+        
+        // Show the selected method panel
+        document.getElementById('selected-method').classList.remove('hidden');
+        
+        // Make the API call to get method details
+        let url = "https://meritzinvestment.co.uk/dashboard/get-method" + '/' + id;
+        fetch(url)
+        .then(function(res){
+            return res.json();
+        })
+        .then(function (response){
+            // Update payment method value
+            $('#paymethod').val(response);
+            
+            // Update method name in the selected panel
+            document.getElementById('method-name').textContent = response;
+            
+            // Find and update the method icon in the selected panel
+            updateMethodIcon(id);
+            
+            // Store the last chosen method
+            $('#lastchosen').val(id);
+            
+            // Show notification
+            showToast('success', 'Success', 'You have chosen to pay with ' + response);
+        })
+        .catch(function(err){
+            showToast('danger', 'Error', 'Failed to fetch payment method details');
+        });
+    }
+    
+    // Function to update the method icon based on the selected method
+    function updateMethodIcon(id) {
+        // Find the selected method's row
+        const methodRows = document.querySelectorAll('tr');
+        let methodIcon = null;
+        
+        methodRows.forEach(row => {
+            // Check if this row contains the button with the given ID
+            const button = row.querySelector(`button[onclick="checkpamethd('${id}')"]`);
+            if (button) {
+                // Try to find an image first
+                const img = row.querySelector('.flex.items-center img');
+                if (img) {
+                    methodIcon = img.cloneNode(true);
+                } else {
+                    // Otherwise try to find the SVG
+                    const svg = row.querySelector('.flex.items-center svg');
+                    if (svg) {
+                        methodIcon = svg.cloneNode(true);
+                    }
+                }
+            }
+        });
+        
+        // Update the method icon in the selected panel
+        const methodIconContainer = document.getElementById('method-icon');
+        methodIconContainer.innerHTML = '';
+        
+        if (methodIcon) {
+            methodIconContainer.appendChild(methodIcon);
+        } else {
+            // Default icon if no image/svg found
+            methodIconContainer.innerHTML = `
+                <svg class="w-5 h-5 text-primary-600 dark:text-primary-400" viewBox="0 0 24 24" fill="none">
+                    <path d="M9.5 13.7502C9.5 14.7202 10.25 15.5002 11.17 15.5002H13.05C13.85 15.5002 14.5 14.8202 14.5 13.9702C14.5 13.0602 14.1 12.7302 13.51 12.5202L10.5 11.4702C9.91 11.2602 9.51 10.9402 9.51 10.0202C9.51 9.18023 10.16 8.49023 10.96 8.49023H12.84C13.76 8.49023 14.51 9.27023 14.51 10.2402" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M12 7.5V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            `;
+        }
+    }
+    
+    // Function to reset payment method
+    function resetMethod() {
+        $('#paymethod').val("");
+        document.getElementById('selected-method').classList.add('hidden');
+        document.getElementById('submit-btn').disabled = true;
+        $('#lastchosen').val(0);
+    }
+    
+    // Document Ready Function
+    $(document).ready(function() {
+        // Form submission handling - DIRECT APPROACH FROM WORKING CODE
+        $('#submitpaymentform').submit(function(e) {
+            const paymethod = $('#paymethod');
+            
+            if (paymethod.val() == "") {
+                e.preventDefault();
+                showToast('danger', 'Error', 'Please choose a payment method by clicking on it');
+                return false;
+            } else {
+                // Exactly matching the working version
+                let makepayurl = "https://meritzinvestment.co.uk/dashboard/newdeposit";
+                $("#submitpaymentform").attr("action", makepayurl);
+                return true;
+            }
+        });
+        
+        // Directly set form action on page load
+        $('#submitpaymentform').attr('action', "https://meritzinvestment.co.uk/dashboard/newdeposit");
+    });
+</script>
+
+    </div>
+
+    <!-- Footer -->
+    <div class="py-4 border-t dark:border-dark-100 border-light-200 text-center md:text-left hidden md:flex md:justify-between md:items-center px-4 md:px-6">
+        <div>
+            <p class="text-sm dark:text-gray-400 text-gray-600">All Rights Reserved &copy; Meritzinvestment 2025</p>
+        </div>
+    </div>
+</div>
+    </div>
+
+    <!-- Mobile Navigation -->
+    <!-- Modern Mobile Navigation -->
+<div class="fixed bottom-0 left-0 right-0 z-[9990] md:hidden">
+    <!-- Main Navigation Bar - Refined Design -->
+    <div class="bg-gradient-to-b dark:from-dark-50 dark:to-dark from-light-100 to-light dark:border-dark-100/80 border-light-200/80 border-t pt-0.5">
+        <!-- Interactive Track Bar -->
+        <div class="mx-auto w-1/2 h-1 -mt-0.5 rounded-full bg-gradient-to-r from-primary/20 via-secondary/60 to-tertiary/20"></div>
+        
+        <!-- Navigation Items -->
+        <div class="flex items-center justify-around h-16 relative px-2">
+            <!-- Active Navigation Indicator (SVG-based) -->
+            <svg class="absolute bottom-0 left-0 w-full h-12 z-0 pointer-events-none" preserveaspectratio="none">
+                <defs>
+                    <lineargradient id="activeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="rgb(200, 139, 101)" stop-opacity="0.2"></stop>
+                        <stop offset="50%" stop-color="rgb(200, 139, 101)" stop-opacity="0.1"></stop>
+                        <stop offset="100%" stop-color="rgb(200, 139, 101)" stop-opacity="0.2"></stop>
+                    </lineargradient>
+                </defs>
+                <rect id="nav-indicator" x="10%" y="0" width="20%" height="100%" rx="16" fill="url(#activeGradient)" style="display:none;"></rect>
+            </svg>
+            
+            <!-- Home -->
+            <a href="../dashboard.html" class="flex flex-col items-center justify-center h-full w-full relative z-10 transition-all duration-200 nav-item " data-index="0">
+                <div class="nav-icon-wrapper dark:text-gray-400 text-gray-600 transition-all duration-300">
+                    <i data-lucide="home" class="h-5 w-5"></i>
+                </div>
+                <span class="text-xs mt-1 dark:text-gray-400 text-gray-600 transition-all duration-300">Home</span>
+            </a>
+            
+            <!-- Deposit -->
+            <a href="deposits.html" class="flex flex-col items-center justify-center h-full w-full relative z-10 transition-all duration-200 nav-item active" data-index="1">
+                <div class="nav-icon-wrapper text-primary transition-all duration-300">
+                    <i data-lucide="download" class="h-5 w-5"></i>
+                </div>
+                <span class="text-xs mt-1 text-primary font-medium transition-all duration-300">Deposit</span>
+            </a>
+            
+            <!-- Quick Actions (FAB) -->
+            <div class="flex flex-col items-center h-full relative px-2 -mt-8">
+                <button id="fab-button" class="h-14 w-14 rounded-full shadow-lg flex items-center justify-center relative z-20 bg-primary transform hover:scale-105 transition-all duration-300">
+                    <svg class="absolute inset-0 w-full h-full" viewbox="0 0 100 100">
+                        <circle cx="50" cy="50" r="48" fill="none" stroke-width="2" stroke="rgba(255,255,255,0.1)"></circle>
+                        <circle cx="50" cy="50" r="48" fill="none" stroke-width="2" stroke="rgb(200, 139, 101)" stroke-dasharray="302" stroke-dashoffset="302" class="animate-dash"></circle>
+                    </svg>
+                    <i data-lucide="zap" class="h-6 w-6 text-white"></i>
+                </button>
+                <span class="text-xs dark:text-gray-400 text-gray-600 absolute -bottom-2">Actions</span>
+            </div>
+            
+            <!-- History -->
+            <a href="accounthistory.html" class="flex flex-col items-center justify-center h-full w-full relative z-10 transition-all duration-200 nav-item " data-index="3">
+                <div class="nav-icon-wrapper dark:text-gray-400 text-gray-600 transition-all duration-300">
+                    <i data-lucide="history" class="h-5 w-5"></i>
+                </div>
+                <span class="text-xs mt-1 dark:text-gray-400 text-gray-600 transition-all duration-300">History</span>
+            </a>
+            
+            <!-- Profile -->
+            <a href="account-settings.html" class="flex flex-col items-center justify-center h-full w-full relative z-10 transition-all duration-200 nav-item " data-index="4">
+                <div class="nav-icon-wrapper dark:text-gray-400 text-gray-600 transition-all duration-300">
+                    <i data-lucide="user" class="h-5 w-5"></i>
+                </div>
+                <span class="text-xs mt-1 dark:text-gray-400 text-gray-600 transition-all duration-300">Profile</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Floating Action Menu (hidden by default) -->
+    <div id="fab-menu" class="hidden fixed inset-0 dark:bg-dark/70 bg-light/70 backdrop-blur-sm z-[9991] animate-in fade-in duration-300">
+        <div class="absolute inset-x-0 bottom-24 flex flex-col items-center">
+            <!-- Actions Grid -->
+            <div class="flex flex-wrap justify-center gap-4 max-w-md mx-auto p-3">
+                <!-- Invest -->
+                                <a href="buy-plan.html" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-secondary/20 to-secondary/5 border border-secondary/20 hover:from-secondary/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-secondary to-secondary/70 flex items-center justify-center mb-2">
+                        <i data-lucide="trending-up" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">Invest</span>
+                </a>
+                                
+                <!-- Withdraw -->
+                                <a href="../user/confirm-password.html" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-primary/20 to-primary/5 border border-primary/20 hover:from-primary/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-primary to-primary/70 flex items-center justify-center mb-2">
+                        <i data-lucide="upload" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">Withdraw</span>
+                </a>
+                                
+                <!-- Swap -->
+                                <a href="asset-balance.html" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-tertiary/20 to-tertiary/5 border border-tertiary/20 hover:from-tertiary/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-tertiary to-tertiary/70 flex items-center justify-center mb-2">
+                        <i data-lucide="shuffle" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">Swap</span>
+                </a>
+                                
+                <!-- Refer -->
+                <a href="referuser.html" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-accent/20 to-accent/5 border border-accent/20 hover:from-accent/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-accent to-accent/70 flex items-center justify-center mb-2">
+                        <i data-lucide="users" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">Refer</span>
+                </a>
+                
+                <!-- Support -->
+                <a href="support.html" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-danger/20 to-danger/5 border border-danger/20 hover:from-danger/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-danger to-danger/70 flex items-center justify-center mb-2">
+                        <i data-lucide="headphones" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">Support</span>
+                </a>
+                
+                <!-- News -->
+                <a href="#" class="w-[calc(33%-12px)] aspect-square flex flex-col items-center justify-center rounded-2xl bg-gradient-to-b from-purple/20 to-purple/5 border border-purple/20 hover:from-purple/30 transition-all duration-300 shadow-lg menu-item">
+                    <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-purple to-purple/70 flex items-center justify-center mb-2">
+                        <i data-lucide="newspaper" class="h-6 w-6 text-white"></i>
+                    </div>
+                    <span class="text-xs font-medium dark:text-white text-dark">News</span>
+                </a>
+            </div>
+            
+            <!-- Close Button -->
+            <button id="fab-close" class="mt-8 w-12 h-12 rounded-full dark:bg-dark-100/80 bg-light-200/80 dark:border-dark-100 border-light-200 border flex items-center justify-center">
+                <i data-lucide="x" class="h-6 w-6 dark:text-white text-dark"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<style>
+/* SVG Animation */
+@keyframes  dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-dash {
+  animation: dash 2s ease-in-out infinite alternate;
+}
+
+/* Navigation item active highlight effect */
+.nav-item.active .nav-icon-wrapper::after {
+    transform: scale(1);
+    opacity: 1;
+} 
+
+.nav-icon-wrapper {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-icon-wrapper::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(200, 139, 101, 0.1);
+    transform: scale(0);
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.nav-item.active .nav-icon-wrapper::after {
+    transform: scale(1);
+    opacity: 1;
+}
+
+/* Animation for menu items */
+.menu-item {
+    animation: menu-appear 0.4s backwards;
+}
+
+@keyframes  menu-appear {
+    from {
+        opacity: 0;
+        transform: scale(0.8) translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+/* Active indicator transition */
+#nav-indicator {
+    transition: x 0.3s ease;
+}
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Get elements
+        const fabButton = document.getElementById('fab-button');
+        const fabMenu = document.getElementById('fab-menu');
+        const fabClose = document.getElementById('fab-close');
+        const navItems = document.querySelectorAll('.nav-item');
+        const navIndicator = document.getElementById('nav-indicator');
+        
+        // Add active class to current navigation item
+        navItems.forEach(item => {
+            if (window.location.href.includes(item.getAttribute('href'))) {
+                item.classList.add('active');
+                
+                // Set indicator position for active item
+                const index = item.dataset.index;
+                if (navIndicator && index !== undefined) {
+                    navIndicator.style.display = 'block';
+                    updateIndicatorPosition(parseInt(index));
+                }
+            }
+            
+            // Add click handler to update indicator position
+            item.addEventListener('click', function() {
+                const index = this.dataset.index;
+                if (navIndicator && index !== undefined) {
+                    updateIndicatorPosition(parseInt(index));
+                }
+            });
+        });
+        
+        // Update the indicator position - Fixed calculation
+        function updateIndicatorPosition(index) {
+            if (!navIndicator) return;
+            
+            // Calculate the x position based on index
+            // Each item takes 20% width (5 items total)
+            // We add 10% to center the indicator (20% item width - 10% offset)
+            const translateX = (index * 20) + '%';
+            navIndicator.setAttribute('x', translateX);
+        }
+        
+        // FAB button functionality
+        if (fabButton && fabMenu && fabClose) {
+            // Open menu
+            fabButton.addEventListener('click', function() {
+                fabMenu.classList.remove('hidden');
+                
+                // Stagger animation for menu items
+                const menuItems = document.querySelectorAll('.menu-item');
+                menuItems.forEach((item, index) => {
+                    item.style.animationDelay = `${index * 0.05}s`;
+                });
+                
+                // Change FAB icon
+                const fabIcon = fabButton.querySelector('i');
+                if (fabIcon) {
+                    fabIcon.setAttribute('data-lucide', 'x');
+                    lucide.createIcons();
+                }
+            });
+            
+            // Close menu
+            fabClose.addEventListener('click', function() {
+                fabMenu.classList.add('hidden');
+                
+                // Change FAB icon back
+                const fabIcon = fabButton.querySelector('i');
+                if (fabIcon) {
+                    fabIcon.setAttribute('data-lucide', 'zap');
+                    lucide.createIcons();
+                }
+            });
+            
+            // Close menu when clicking outside (on the backdrop)
+            fabMenu.addEventListener('click', function(e) {
+                if (e.target === fabMenu) {
+                    fabMenu.classList.add('hidden');
+                    
+                    // Change FAB icon back
+                    const fabIcon = fabButton.querySelector('i');
+                    if (fabIcon) {
+                        fabIcon.setAttribute('data-lucide', 'zap');
+                        lucide.createIcons();
+                    }
+                }
+            });
+        }
+    });
+</script>
+    <!-- Core Scripts -->
+    <script src="../jquery-3.6.0.min.js"></script>
+    <script src="../ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+    <script src="../dash2/libs/sweetalert/sweetalert.min.js"></script>
+    <script type="text/javascript" src="../v/bs4/dt-1.10.21/af-2.3.5/b-1.6.3/b-flash-1.6.3/b-html5-1.6.3/b-print-1.6.3/r-2.2.5/datatables.min.js"></script>
+<script>
+        lucide.createIcons();
+    </script>
+    <!-- Theme Management Script -->
+    <script>
+        // Theme initialization
+        document.addEventListener('DOMContentLoaded', function() {
+            // Check for saved theme preference or use system preference
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const savedTheme = localStorage.getItem('darkMode');
+
+            if (savedTheme === 'true' || (savedTheme === null && prefersDark)) {
+                document.documentElement.classList.add('dark');
+            } else if (savedTheme === 'false') {
+                document.documentElement.classList.remove('dark');
+            }
+
+            // Update theme switcher icon
+            updateThemeIcon();
+        });
+
+        // Function to toggle theme
+        function toggleTheme() {
+            if (document.documentElement.classList.contains('dark')) {
+                document.documentElement.classList.remove('dark');
+                localStorage.setItem('darkMode', 'false');
+            } else {
+                document.documentElement.classList.add('dark');
+                localStorage.setItem('darkMode', 'true');
+            }
+
+            // Update the icon
+            updateThemeIcon();
+        }
+
+        // Update theme icon based on current theme
+        function updateThemeIcon() {
+            const isDark = document.documentElement.classList.contains('dark');
+            const sunIcon = document.querySelector('[data-lucide="sun"]');
+            const moonIcon = document.querySelector('[data-lucide="moon"]');
+
+            if (sunIcon && moonIcon) {
+                if (isDark) {
+                    sunIcon.style.display = 'block';
+                    moonIcon.style.display = 'none';
+                } else {
+                    sunIcon.style.display = 'none';
+                    moonIcon.style.display = 'block';
+                }
+            }
+        }
+    </script>
+
+    <!-- Initialize Lucide Icons -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            lucide.createIcons();
+
+            // Mobile menu toggle functionality
+            const menuToggles = document.querySelectorAll('[data-action="sidenav-pin"]');
+            const sidebar = document.getElementById('sidenav-main');
+
+            if (menuToggles.length > 0 && sidebar) {
+                menuToggles.forEach(toggle => {
+                    toggle.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        sidebar.classList.toggle('active');
+                        sidebar.classList.toggle('hidden');
+                        sidebar.classList.toggle('md:block');
+                    });
+                });
+
+                // Close sidebar when clicking outside on mobile
+                document.addEventListener('click', function(e) {
+                    const isMobile = window.innerWidth < 768;
+                    const clickedInside = sidebar.contains(e.target);
+                    const clickedToggle = Array.from(menuToggles).some(toggle => toggle.contains(e.target));
+
+                    if (isMobile && !clickedInside && !clickedToggle && sidebar.classList.contains('active')) {
+                        sidebar.classList.remove('active');
+                        sidebar.classList.add('hidden');
+                        sidebar.classList.add('md:block');
+                    }
+                });
+            }
+
+            // Initialize Select2
+            if ($.fn.select2) {
+                $('.select2').select2();
+            }
+
+            // Initialize DataTables responsively
+            if ($.fn.DataTable) {
+                $('.datatable').DataTable({
+                    responsive: true,
+                    dom: '<"top"fl>rt<"bottom"ip>',
+                    language: {
+                        search: "",
+                        searchPlaceholder: "Search..."
+                    }
+                });
+            }
+        });
+    </script>
+
+   <script src="../widget/4shHsiHCSe" async=""></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+    <script src="../livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false"></script><script data-turbo-eval="false" data-turbolinks-eval="false">window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = '9AUencLeaPkQhuF6eaDjc5RaG1AcsUUE0ur7vKWI';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+    </body>
+</html>

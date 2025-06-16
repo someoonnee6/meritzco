@@ -1,0 +1,2308 @@
+Uri: https://cdn.datatables.net/v/bs4/dt-1.10.21/af-2.3.5/b-1.6.3/b-flash-1.6.3/b-html5-1.6.3/b-print-1.6.3/r-2.2.5/datatables.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\v\bs4\dt-1.10.21\af-2.3.5\b-1.6.3\b-flash-1.6.3\b-html5-1.6.3\b-print-1.6.3\r-2.2.5\datatables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/v/bs4/dt-1.10.21/af-2.3.5/b-1.6.3/b-flash-1.6.3/b-html5-1.6.3/b-print-1.6.3/r-2.2.5/datatables.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\v\bs4\dt-1.10.21\af-2.3.5\b-1.6.3\b-flash-1.6.3\b-html5-1.6.3\b-print-1.6.3\r-2.2.5\datatables.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.1/dist/alpine.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\gh\alpinejs\alpine@v2.8.1\dist\alpine.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\npm\alpinejs@3.x.x\dist\cdn.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\npm\lucide@latest\dist\umd\lucide.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\npm\tailwindcss@2.2.19\dist\tailwind.min.css
+Content Type: text/css
+
+Uri: https://cdn.tailwindcss.com/3.4.16
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\3.4.16
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\ajax\libs\jquery\3.7.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\ajax\libs\select2\4.0.6-rc.0\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\ajax\libs\select2\4.0.6-rc.0\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://code.jivosite.com/widget/4shHsiHCSe
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\widget\4shHsiHCSe
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.1.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v16/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\s\dmsans\v16\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://img.icons8.com/color/48/000000/bitcoin--v1.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\color\48\000000\bitcoin--v1.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/48/000000/tether--v2.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\color\48\000000\tether--v2.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/cotton/64/000000/chainlink.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\cotton\64\000000\chainlink.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/fluency/48/000000/ethereum.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\fluency\48\000000\ethereum.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/fluency/48/000000/ripple.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\fluency\48\000000\ripple.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/ios/50/000000/stellar.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\ios\50\000000\stellar.png
+Content Type: image/png
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/css/all.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\css\all.min.css
+Content Type: text/css
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.1.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.1.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.11.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.11.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.2.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.2.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.3.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.3.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.5.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.5.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.0.9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.0.9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.1.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.1.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.10.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.10.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.11.2.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.11.2.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.12.1.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.12.1.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.13.1.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.13.1.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.14.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.14.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.1.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.1.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.15.4.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.15.4.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.2.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.2.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.3.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.3.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.4.2.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.4.2.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.6.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.6.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.7.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.7.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.1.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.1.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.8.2.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.8.2.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0.svg
+Content Type: image/svg+xml
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0.woff
+Content Type: font/woff
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-5.9.0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-5.9.0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-f6b769.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-f6b769.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-brands-400-f6b769.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-brands-400-f6b769.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-duotone-900-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-duotone-900-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-light-300-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-light-300-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-regular-400-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-regular-400-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-sharp-solid-900-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-sharp-solid-900-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-solid-900-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-solid-900-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-03c840.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-03c840.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-03c840.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-03c840.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-043e6a.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-043e6a.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-043e6a.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-043e6a.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-1e5361.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-1e5361.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-1e5361.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-1e5361.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-292b12.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-292b12.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-292b12.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-292b12.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-3523ab.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-3523ab.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-3523ab.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-3523ab.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-50c900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-50c900.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-50c900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-50c900.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-51b08f.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-51b08f.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-51b08f.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-51b08f.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-6d2a10.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-6d2a10.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-6d2a10.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-6d2a10.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-90d968.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-90d968.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-90d968.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-90d968.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-9b80fe.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-9b80fe.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-9b80fe.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-9b80fe.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-b4a9ce.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-b4a9ce.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-b4a9ce.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-b4a9ce.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-bc0b04.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-bc0b04.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-bc0b04.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-bc0b04.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-ca12ba.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-ca12ba.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-ca12ba.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-ca12ba.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-d5bbe9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-d5bbe9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-d5bbe9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-d5bbe9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-d85a6c.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-d85a6c.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-d85a6c.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-d85a6c.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-e41116.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-e41116.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-e41116.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-e41116.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-e9d1d9.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-e9d1d9.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-e9d1d9.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-e9d1d9.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-ec38a0.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-ec38a0.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-thin-100-ec38a0.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-thin-100-ec38a0.woff2
+Content Type: font/woff2
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-v4compatibility.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://jcsoci.github.io/FontAwesome6Pro/webfonts/pro-fa-v4compatibility.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\FontAwesome6Pro\webfonts\pro-fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://js.stripe.com/v3/
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\v3\index.htm
+Content Type: text/javascript
+
+Uri: https://meritzinvestment.co.uk/
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/about
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\about.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/contact
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\contact.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dash2/libs/sweetalert/sweetalert.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dash2\libs\sweetalert\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/dash2/libs/sweetalert2/dist/sweetalert2.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dash2\libs\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/dashboard
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/account-settings
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\account-settings.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/accounthistory
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\accounthistory.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/asset-balance
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\asset-balance.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/buy-plan
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\buy-plan.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/deposits
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\deposits.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/manage-account-security
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\manage-account-security.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/myplans/All
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\myplans\All.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/notifications
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\notifications.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/referuser
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\referuser.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/support
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\support.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/swap-history
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\swap-history.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/dashboard/tradinghistory
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\dashboard\tradinghistory.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/faq
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\faq.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/favicon.ico
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://meritzinvestment.co.uk/livewire/livewire.js?id=90730a3b0e7144480175
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\livewire\livewire.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/css/responsive.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\css\responsive.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/css/style.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\css\style.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/bch.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\bch.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/btc.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\btc.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/dash.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\dash.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/doge.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\doge.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/eth.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\eth.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/ltc.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\ltc.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/trx.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\trx.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/usdc.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\usdc.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/brand/usdt.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\brand\usdt.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/page-header-bg.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/shapes/main-slider-three-shape.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\shapes\main-slider-three-shape.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/shapes/news-three-shape.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\shapes\news-three-shape.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/shapes/our-mission-shape.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\shapes\our-mission-shape.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_about.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_about.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_about2.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_about2.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_home.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_home.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_home_bg.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_home_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_home_img.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_home_img.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_slider.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_slider.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_slider2.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/images/vev_slider3.jpg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\images\vev_slider3.jpg
+Content Type: image/jpeg
+
+Uri: https://meritzinvestment.co.uk/public/js/conult.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\js\conult.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/animate/animate.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/animate/custom-animate.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\animate\custom-animate.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bootstrap-select/css/bootstrap-select.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bootstrap-select\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bootstrap-select/js/bootstrap-select.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bootstrap-select\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bxslider/jquery.bxslider.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bxslider\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/bxslider/jquery.bxslider.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\bxslider\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/conult-icons/fonts/icomoon78ed78ed.eot?orkqwr
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\conult-icons\fonts\icomoon78ed78ed.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/conult-icons/fonts/icomoon78ed78ed.svg?orkqwr
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\conult-icons\fonts\icomoon78ed78ed.svg
+Content Type: image/svg+xml
+
+Uri: https://meritzinvestment.co.uk/public/vendors/conult-icons/fonts/icomoon78ed78ed.ttf?orkqwr
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\conult-icons\fonts\icomoon78ed78ed.ttf
+Content Type: font/ttf
+
+Uri: https://meritzinvestment.co.uk/public/vendors/conult-icons/fonts/icomoon78ed78ed.woff?orkqwr
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\conult-icons\fonts\icomoon78ed78ed.woff
+Content Type: font/woff
+
+Uri: https://meritzinvestment.co.uk/public/vendors/conult-icons/style.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\conult-icons\style.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/countdown/countdown.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\countdown\countdown.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/css/all.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-brands-400d41dd41d.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-brands-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-regular-400d41dd41d.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-regular-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://meritzinvestment.co.uk/public/vendors/fontawesome/webfonts/fa-solid-900d41dd41d.eot?
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\fontawesome\webfonts\fa-solid-900d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://meritzinvestment.co.uk/public/vendors/images/icon/bx_loader.html
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\images\icon\bx_loader.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/public/vendors/img/bx-slider/controls.html
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\img\bx-slider\controls.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/public/vendors/isotope/isotope.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\isotope\isotope.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jarallax/jarallax.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jarallax\jarallax.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jarallax/jarallax.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jarallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ajaxchimp\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-appear/jquery.appear.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-appear\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-circle-progress/jquery.circle-progress.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-circle-progress\jquery.circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-magnific-popup/jquery.magnific-popup.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-magnific-popup\jquery.magnific-popup.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-icons_222222_256x240.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-icons_454545_256x240.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-icons_888888_256x240.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/jquery-ui.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\jquery-ui.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-ui/jquery-ui.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-ui\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery-validate/jquery.validate.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery-validate\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/jquery/jquery-3.6.0.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\jquery\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/nouislider/nouislider.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/nouislider/nouislider.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\nouislider\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/nouislider/nouislider.pips.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\nouislider\nouislider.pips.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/odometer/odometer.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\odometer\odometer.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/odometer/odometer.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\odometer\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/owl-carousel/owl.carousel.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/owl-carousel/owl.carousel.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/owl-carousel/owl.theme.default.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/owl-carousel/owl.video.play.html
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\owl-carousel\owl.video.play.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/public/vendors/reey-font/reey-regular-webfont.woff
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\reey-font\reey-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://meritzinvestment.co.uk/public/vendors/reey-font/reey-regular-webfont.woff2
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\reey-font\reey-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://meritzinvestment.co.uk/public/vendors/reey-font/stylesheet.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\reey-font\stylesheet.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/swiper/swiper.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/swiper/swiper.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/timepicker/images/ui-icons_444444_256x240.html
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\timepicker\images\ui-icons_444444_256x240.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/public/vendors/timepicker/timePicker.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\timepicker\timePicker.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/timepicker/timePicker.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\timepicker\timePicker.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/tiny-slider/tiny-slider.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\tiny-slider\tiny-slider.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/tiny-slider/tiny-slider.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\tiny-slider\tiny-slider.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/vegas/overlays/02.html
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\vegas\overlays\02.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/public/vendors/vegas/vegas.min.css
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://meritzinvestment.co.uk/public/vendors/vegas/vegas.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\vegas\vegas.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/wnumb/wNumb.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\wnumb\wNumb.min.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/public/vendors/wow/wow.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\public\vendors\wow\wow.js
+Content Type: application/javascript
+
+Uri: https://meritzinvestment.co.uk/storage/app/public/photos/2CRBgD4XlBmDKF5o3P7RBXR7PSsw5tCtb6sKZ5bm.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\storage\app\public\photos\2CRBgD4XlBmDKF5o3P7RBXR7PSsw5tCtb6sKZ5bm.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/storage/app/public/photos/erS41GrjdsLGXfFderVWcZmCASGd6Rt2nIMEqnsg.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\storage\app\public\photos\erS41GrjdsLGXfFderVWcZmCASGd6Rt2nIMEqnsg.png
+Content Type: image/png
+
+Uri: https://meritzinvestment.co.uk/terms
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\terms.html
+Content Type: text/html
+
+Uri: https://meritzinvestment.co.uk/user/confirm-password
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\user\confirm-password.html
+Content Type: text/html
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\1.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\1831.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\1839.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/2.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\2.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\2010.png
+Content Type: image/png
+
+Uri: https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\static\img\coins\64x64\7278.png
+Content Type: image/png
+
+Uri: https://s3.tradingview.com/tv.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\tv.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/lucide@0.515.0/dist/umd/lucide.min.js
+File Name: C:\Users\Xcuuvy\Documents\webcopy\meritzinvestment.co.uk\lucide@0.515.0\dist\umd\lucide.min.js
+Content Type: text/javascript
+
